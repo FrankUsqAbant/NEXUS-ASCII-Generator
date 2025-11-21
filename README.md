@@ -1,4 +1,4 @@
-[Visita el sitio](https://frankusqabant.github.io/NEXUS-ASCII-Generator/)
+[Visita la aplicación en funcionamiento](https://frankusqabant.github.io/NEXUS-ASCII-Generator/)
 
 <div align="center">
   <img src="./Pantalla.png" alt="Nexus ASCII Generator Screenshot" width="100%" />
@@ -45,4 +45,4 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local:
 
 ## 🌐 Despliegue
 
-Puedes ver la aplicación en funcionamiento en AI Studio: [Enlace a la App](https://ai.studio/apps/drive/1drPsGLqekYYVqtLGBCRmeyFD-MdixfvL)
+Puedes ver la aplicación en funcionamiento: [Enlace a la App](https://frankusqabant.github.io/NEXUS-ASCII-Generator/)

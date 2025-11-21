@@ -1,0 +1,5 @@
+{
+  "name": "NEXUS ASCII Generator",
+  "description": "Herramienta profesional para transformar texto e imágenes en arte ASCII estilo Cyberpunk. Soporta renderizado RGB, exportación PNG y múltiples fuentes.",
+  "requestFramePermissions": []
+}

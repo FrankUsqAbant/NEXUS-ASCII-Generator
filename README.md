@@ -37,10 +37,7 @@ Sigue estos pasos para ejecutar la aplicación en tu máquina local:
    npm install
    ```
 
-2. **Configurar entorno:**
-   Configura tu `GEMINI_API_KEY` en el archivo [.env.local](.env.local).
-
-3. **Ejecutar la aplicación:**
+2. **Ejecutar la aplicación:**
    ```bash
    npm run dev
    ```
